@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip: MyString
+  phone: MyString
+  latitude: 1.5
+  longitude: 1.5
+  website: MyString
+  teetimes: MyString
+  holes: 1
+  par: 1
+
+two:
+  name: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip: MyString
+  phone: MyString
+  latitude: 1.5
+  longitude: 1.5
+  website: MyString
+  teetimes: MyString
+  holes: 1
+  par: 1

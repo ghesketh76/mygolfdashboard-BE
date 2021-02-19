@@ -1,0 +1,39 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  golfcourse: one
+  tee1_name: MyString
+  tee1_distance: 1
+  tee1_slope: 1
+  tee1_cr: 1.5
+  tee2_name: MyString
+  tee2_distance: 1
+  tee2_slope: 1
+  tee2_cr: 1.5
+  tee3_name: MyString
+  tee3_distance: 1
+  tee3_slope: 1
+  tee3_cr: 1.5
+  tee4_name: MyString
+  tee4_distance: 1
+  tee4_slope: 1
+  tee4_cr: 1.5
+
+two:
+  golfcourse: two
+  tee1_name: MyString
+  tee1_distance: 1
+  tee1_slope: 1
+  tee1_cr: 1.5
+  tee2_name: MyString
+  tee2_distance: 1
+  tee2_slope: 1
+  tee2_cr: 1.5
+  tee3_name: MyString
+  tee3_distance: 1
+  tee3_slope: 1
+  tee3_cr: 1.5
+  tee4_name: MyString
+  tee4_distance: 1
+  tee4_slope: 1
+  tee4_cr: 1.5
