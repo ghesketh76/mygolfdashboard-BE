@@ -6,7 +6,7 @@ This is a backend API for the myGolfDashboard webpage. It is built with Ruby on 
 
 ## Frontend
 
-https://github.com/MomentaiBro/Outdoor_Frontend
+https://github.com/ghesketh76/mygolfdashboard-FE
 
 
 ## Technologies
