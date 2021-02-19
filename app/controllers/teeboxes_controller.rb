@@ -5,4 +5,6 @@ class TeeboxesController < ApplicationController
         @teeboxes = Teebox.all
         render json: @teeboxes
     end
+
+    
 end

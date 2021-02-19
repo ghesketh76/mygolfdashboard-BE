@@ -11,4 +11,8 @@ class GolfcoursesController < ApplicationController
         @golfcourse = Golfcourse.find(params[:id])
         render json: @golfcourse, include: [:teeboxes]
     end
+
+    def show_teeboxes
+        @golfcourse = Golfcourse.find(params[:id])
+    end
 end
