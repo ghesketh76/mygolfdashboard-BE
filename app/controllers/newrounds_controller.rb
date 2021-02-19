@@ -6,9 +6,10 @@ class NewroundsController < ApplicationController
     end
 
     def create 
+       
         @newround = Newround.create(
             golfcourse_id: params[:golfcourse_id],
-            user_id: params[:user_id],
+            user_id: @user.id,
             score: params[:score] 
              )
         render json: @newround
